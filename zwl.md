@@ -87,6 +87,7 @@ zmm@MacBook-Pro BD-2020 %  vim zwl.md
 
 ### 队长
 ### 前端+产品
+
 ~                                                                               
 ~                                                                               
 ~                                                                               
@@ -113,5 +114,4 @@ zmm@MacBook-Pro BD-2020 %  vim zwl.md
 ~                                                                               
 ~                                                                               
 ~                                                                               
-~                                                                               
--- INSERT -- W10: Warning: Changing a readonly file
+
